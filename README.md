@@ -40,7 +40,7 @@ This project analyzes the impact of an online ad campaign on user conversion usi
 - Performed a **proportions Z-test** using `statsmodels`
 - Result:
   - **Z-stat:** ~7.37
-  - **p-value:** < 0.001
+  - **p-value:** < 0.000
   - ✅ **Statistically significant difference**
 
 ### 3️⃣ Revenue Estimation
